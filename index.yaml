@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  eventapp-lab12:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-07-13T20:56:49.4028957+09:00"
+    description: A Helm chart for Kubernetes
+    digest: cad3d6766ad0b10e866b3ada40eb39ab689e3969ceccc9a00f82378301defb5c
+    name: eventapp-lab12
+    type: application
+    urls:
+    - https://joonsk.github.io/mycharts/eventapp-lab12-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-13T20:56:49.3908912+09:00"
